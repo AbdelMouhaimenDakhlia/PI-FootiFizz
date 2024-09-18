@@ -26,4 +26,18 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
-# ProjetGarkFinalV
+# Requirement
+
+pip install torch
+pip install git+https://github.com/ultralytics/yolov5  # for ultralytics
+pip install opencv-python-headless  # for python-opencv
+pip install pillow
+pip install scikit-image
+pip install scikit-learn
+pip install streamlit
+pip install streamlit-image-coordinates
+pip install xlrd
+pip install openpyxl
+pip install textblob
+pip install flask-cors
+pip install flask
